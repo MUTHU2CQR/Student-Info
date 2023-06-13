@@ -1,1 +1,9 @@
 E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\bin\Debug\Student Info.exe.config
+E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\bin\Debug\Student Info.exe
+E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\bin\Debug\Student Info.pdb
+E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\obj\Debug\Student_Info.Form1.resources
+E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\obj\Debug\Student_Info.Properties.Resources.resources
+E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\obj\Debug\Student Info.csproj.GenerateResource.Cache
+E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\obj\Debug\Student Info.exe
+E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\obj\Debug\Student Info.pdb
+E:\GITHUB\Student Information\Student-Info\Student Info\Student Info\obj\Debug\Student Info.csprojResolveAssemblyReference.cache
